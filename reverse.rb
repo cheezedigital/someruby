@@ -6,4 +6,4 @@ end
 
 puts("reverse(\"abc\") == \"cba\": #{reverse("abc") == "cba"}")
 puts("reverse(\"a\") == \"a\": #{reverse("a") == "a"}")
-puts("reverse(\"\") == \"\": #{reverse("") == ""}") 
+puts("reverse(\"\") == \"\": #{reverse("") == ""}")
